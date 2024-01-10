@@ -25,8 +25,8 @@ let professor = {
  professor.totalExperience.experience="14 years";
  console.log(professor.totalExperience);
  console.log("------------- Step 5 -----------------------");
- console.log("Modify adress Solapur to Sangola :");
- professor.adress="Sangola";
+ console.log("Modify adress Ahmednagar to Nagar :");
+ professor.adress="Nagar";
  console.log(professor);
  console.log("------------- Step 6 -----------------------");
  console.log("Add new Certificate is :");
